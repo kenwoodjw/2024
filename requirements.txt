@@ -1,0 +1,7 @@
+PyGithub
+requests
+pendulum
+rich
+openai
+BingImageCreator==0.4.4
+
